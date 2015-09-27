@@ -1,0 +1,6 @@
+E:\File\Practice Folder\Web Application\Development\TestFile\TestFile\bin\TestFile.dll.config
+E:\File\Practice Folder\Web Application\Development\TestFile\TestFile\bin\TestFile.dll
+E:\File\Practice Folder\Web Application\Development\TestFile\TestFile\bin\TestFile.pdb
+E:\File\Practice Folder\Web Application\Development\TestFile\TestFile\obj\Debug\TestFile.csprojResolveAssemblyReference.cache
+E:\File\Practice Folder\Web Application\Development\TestFile\TestFile\obj\Debug\TestFile.dll
+E:\File\Practice Folder\Web Application\Development\TestFile\TestFile\obj\Debug\TestFile.pdb
